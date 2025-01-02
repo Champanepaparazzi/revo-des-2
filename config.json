@@ -1,0 +1,35 @@
+{
+    "site": {
+        "name": "Revotronics 2025",
+        "tagline": "Your sleek tagline here",
+        "theme": {
+            "primaryColor": "#ff6b6b",
+            "backgroundColor": "#1a1a1a",
+            "textColor": "#ffffff"
+        }
+    },
+    "navigation": {
+        "links": [
+            {
+                "name": "Home",
+                "url": "#home"
+            },
+            {
+                "name": "About",
+                "url": "#about"
+            },
+            {
+                "name": "Event",
+                "url": "#event"
+            },
+            {
+                "name": "Team",
+                "url": "#team"
+            },
+            {
+                "name": "Login",
+                "url": "#login"
+            }
+        ]
+    }
+}
