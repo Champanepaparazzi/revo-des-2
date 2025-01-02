@@ -1,7 +1,3 @@
-Here’s a professional and structured README file for your GitHub repository:  
-
----
-
 # Revo Design 2  
 
 A clean and modern web design concept for the **Revo** website. This project focuses on delivering a minimalistic and user-friendly interface with responsive design and elegant visuals.  
@@ -50,9 +46,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact  
 For any inquiries or suggestions:  
-**Email**: [your-email@example.com]  
+**Email**: [webdev.prasath@gmai.com]  
 **GitHub**: [champanepaparazzi](https://github.com/champanepaparazzi)  
-
----
-
-Let me know if you’d like any additional details or adjustments!
